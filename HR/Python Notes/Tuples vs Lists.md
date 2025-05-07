@@ -1,0 +1,3 @@
+- [[Tuples]] use less space than [[Lists|lists]].
+- You can use tuples as dictionary keys
+- *Named tuples* can be a simple alternative to objects

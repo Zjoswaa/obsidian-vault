@@ -1,0 +1,2 @@
+GLSL looks similar to C. Each shader begins with a declaration of its version. Since OpenGL 3.3 and higher the version numbers of GLSL match the version of OpenGL (GLSL version 420 corresponds to OpenGL version 4.2 for example). We also explicitly mention we're using core profile functionality.
+GLSL is tailored for use with graphics and contains useful features specifically targeted at vector and matrix manipulation.
