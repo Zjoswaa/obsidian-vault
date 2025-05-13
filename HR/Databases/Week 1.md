@@ -1,4 +1,4 @@
-- A **database** is a collection of related data
+1- A **database** is a collection of related data
 	- **Data** means known facts that can be recorded and that have implicit meaning
 # Data Modeling
 - A **data model** is a collection of concepts that can be used to describe the **structure of a database**
