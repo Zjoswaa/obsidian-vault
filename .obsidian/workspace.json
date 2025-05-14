@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HR/Databases/Week 2.md",
+                "file": "HR/Software Quality/Week 2.md",
                 "mode": "source",
                 "source": false
               },
@@ -165,9 +165,10 @@
   },
   "active": "72bcec6219b406b9",
   "lastOpenFiles": [
-    "HR/Databases/Week 1.md",
-    "HR/Databases/Week 2.md",
     "HR/Software Quality/Week 1.md",
+    "HR/Software Quality/Week 2.md",
+    "HR/Databases/Week 2.md",
+    "HR/Databases/Week 1.md",
     "HR/Software Quality",
     "HR/Networking/Week 5.md",
     "HR/Databases",
@@ -194,7 +195,6 @@
     "OpenGL/GLM.md",
     "OpenGL/Transforms.md",
     "OpenGL/Drawing.md",
-    "HR/Assignment - The Testaurant.md",
     "OpenGL/Orthographic Projection.png",
     "OpenGL/Coordinate Spaces.png",
     "HR/Networking/Gateway Network.png",
