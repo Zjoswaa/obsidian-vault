@@ -1,0 +1,27 @@
+- Most dynamic web applications accept some kind of **input** from the client
+	- This is probably the greatest **threat** to the security of a web application
+	- Accepting wrong input may make the programs make wrong **decisions**, results may vary from harmless to devastating
+- Input includes
+	- All URL parameters
+	- POST-ed data from textual input, check boxes, radio buttons, select lists, etc.
+	- Cookies and other HTTP headers used by the application, even those behind the scenes by the programming platform
+# Input Validation
+- The main goal of input validation is to make sure our application works with data that have the expected **format**
+- Good input validation depends on a clear understanding of all parameters originating on the client, including hidden files, option values, cookies and HTTP headers
+- Create validation functions
+	- `isValidEmailAddress`, `isValidCustomerID`, etc
+- Check the **range**
+	- For certain domain names, particularly numeric values, there may be **range limitations** as well as **format limitations**
+	- For example, the price of an item in a web shop must be numeric, but should not be **negative**
+- Check the **length**
+- Check for presence of **null-bytes**
+	- Should **never** be present in **non-binary input**
+- Perform input validation before doing anything else
+- Perform authentication tests
+- Perform authorization tests
+# Handling invalid input
+- User-generated input may be invalid due to typing errors
+	- Application should politely tell the user that something is not right, and encourage them to **change** their input.
+- Server-generated input, which is not directly modifiable by the user, will never be incorrect during normal usage
+	- **If it is incorrect**, it means that someone is **tampering** with values that are normally out of their reach, and not supposed to be changed
+	- For bad server-generated input, we do not need to be that polite. The application should **abort** the operation and **log** the incident
