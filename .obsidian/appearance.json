@@ -3,6 +3,8 @@
   "baseFontSize": 16,
   "interfaceFontFamily": "",
   "textFontFamily": "",
-  "monospaceFontFamily": "JetBrainsMono Nerd Font",
-  "cssTheme": "GitHub Theme"
+  "monospaceFontFamily": "JetBrainsMonoNL Nerd Font",
+  "cssTheme": "GitHub Theme",
+  "theme": "system",
+  "baseFontSizeAction": false
 }

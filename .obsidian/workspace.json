@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HR/Databases/Week 4.md",
+                "file": "HR/Databases/Week 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 4"
+              "title": "Week 1"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.51103591918945
+    "width": 270.5
   },
   "right": {
     "id": "361dc6db78714367",
@@ -166,13 +166,20 @@
   "active": "ca39a7dd6eb14e60",
   "lastOpenFiles": [
     "HR/Databases/Week 3.md",
+    "HR/Databases/Week 5.md",
+    "HR/Databases/Week 1.md",
     "HR/Databases/Week 4.md",
+    "HR/Algorithms/Week 4.md",
+    "HR/Algorithms/Week 1.md",
+    "HR/Algorithms/Week 2.md",
+    "HR/Algorithms/Week 3.md",
+    "HR/Software Quality/Week 6.md",
+    "HR/Software Quality/Week 5.md",
+    "HR/Databases/Week 2.md",
     "HR/Software Quality/Week 4.md",
+    "HR/Software Quality/Week 3.md",
     "HR/Software Quality/Week 1.md",
     "HR/Software Quality/Week 2.md",
-    "HR/Software Quality/Week 3.md",
-    "HR/Databases/Week 1.md",
-    "HR/Databases/Week 2.md",
     "HR/Networking/Week 5.md",
     "HR/Databases",
     "HR/Networking/Week 4.md",
@@ -181,18 +188,11 @@
     "HR/Networking/Week 2.md",
     "HR/Networking/Week 6.md",
     "HR/Networking/Week 7.md",
-    "HR/Algorithms/Week 2.md",
-    "HR/Algorithms/Week 1.md",
     "HR/Skills/Samenvatting.md",
     "HR/Skills/Conclusie.md",
     "HR/Skills/Inleiding.md",
     "HR/Skills",
-    "HR/Algorithms/Week 4.md",
-    "HR/Algorithms/Week 3.md",
     "OpenGL/Vertex Array Object (VAO).md",
-    "OpenGL/VBO, VAO, EBO Code.md",
-    "OpenGL/OpenGL.md",
-    "OpenGL/Element Buffer Object (EBO).md",
     "OpenGL/Perspective Projection.png",
     "OpenGL/Orthographic Projection.png",
     "OpenGL/Coordinate Spaces.png",
