@@ -155,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -163,7 +164,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca39a7dd6eb14e60",
+  "active": "69d0d9326cf86068",
   "lastOpenFiles": [
     "HR/Databases/Week 3.md",
     "HR/Databases/Week 5.md",
