@@ -1,0 +1,1 @@
+Gebruikt om subdomains of virtual hosts op een bepaald domein te vinden.
