@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d1fd20f0f38fe2c5",
+        "id": "645037707f79f2ad",
         "type": "tabs",
         "children": [
           {
-            "id": "ac1ed5eecb59e5f9",
+            "id": "d0fd2d364da388ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HR/Security Lab/Bruteforcing Tools/gobuster.md",
-                "mode": "source",
+                "file": "HR/Security Lab/SQL Injection/Blind SQL Injection.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gobuster"
+              "title": "Blind SQL Injection"
             }
           }
         ]
@@ -166,36 +166,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac1ed5eecb59e5f9",
+  "active": "d0fd2d364da388ef",
   "lastOpenFiles": [
-    "HR/Security Lab/Bruteforcing Tools/feroxbuster.md",
+    "HR/Security Lab/SQL Injection/In-Band SQL Injection.md",
+    "HR/Security Lab/SQL Injection/Blind SQL Injection.md",
+    "HR/Security Lab/SQL Injection/SQL Injection.md",
+    "HR/Security Lab/Bruteforcing Tools/ffuf.md",
+    "HR/Security Lab/SQL Injection",
     "HR/Security Lab/Bruteforcing Tools/gobuster.md",
+    "HR/Security Lab/Bruteforcing Tools/feroxbuster.md",
+    "HR/Security Lab/Privilege Escalation/Find SUID files.md",
+    "HR/Security Lab/Bruteforcing Tools/john.md",
+    "HR/Security Lab/Bruteforcing Tools/hydra.md",
+    "HR/Security Lab/Privilege Escalation/PEASS-ng.md",
+    "HR/Security Lab/SMB.md",
+    "HR/Security Lab/Privilege Escalation",
+    "HR/Security Lab/Untitled.md",
+    "HR/Security Lab/Metasploit/searchsploit.md",
     "HR/Security Lab/Reconnaisance/nmap.md",
-    "HR/Security Lab/Reconnaisance/assetfinder.md",
+    "HR/Security Lab/Samba.md",
+    "HR/Security Lab/Reconnaisance/enum4linux.md",
+    "HR/Security Lab/Reconnaisance/dig.md",
     "HR/Security Lab/Reconnaisance/crt.sh.md",
+    "HR/Security Lab/Reconnaisance/assetfinder.md",
+    "HR/Security Lab/Bruteforcing Tools/Bruteforcing Tools.md",
+    "HR/Security Lab/Web Traffic Interception/Burpsuite.md",
+    "HR/Security Lab/Web Traffic Interception/mitmproxy.md",
     "HR/Python Notes/Loops.md",
     "HR/Python Notes/Dictionaries.md",
     "HR/Python Notes/Functions & Arguments.md",
-    "HR/Security Lab/Bruteforcing Tools/Bruteforcing Tools.md",
     "HR/BaseCamp Python Notes/Sets.md",
-    "HR/Security Lab/Reconnaisance/subfinder.md",
-    "HR/Security Lab/Reconnaisance/OSINT.md",
-    "HR/Security Lab/Reconnaisance/Reconnaisance.md",
-    "HR/Security Lab/Reconnaisance/whois.md",
-    "HR/Security Lab/Reconnaisance/nslookup.md",
-    "HR/Security Lab/Reconnaisance/dig.md",
-    "Documention.md",
-    "HR/Security Lab/Metasploit/msfconsole.md",
     "HR/Security Lab/Reconnaisance",
-    "HR/Security Lab/Vulnerability Scanning/nikto.md",
-    "HR/Security Lab/Vulnerability Scanning/nuclei.md",
-    "HR/Security Lab/Vulnerability Scanning/OWASP Zed Attack Proxy (ZAP).md",
-    "HR/Security Lab/Vulnerability Scanning/Vulnerability Scanning.md",
-    "HR/Security Lab/Metasploit/searchsploit.md",
-    "HR/Security Lab/Metasploit/Metasploit.md",
     "HR/Security Lab/Metasploit",
-    "HR/Security Lab/Bruteforcing Tools/hydra.md",
-    "HR/Security Lab/Bruteforcing Tools/ffuf.md",
     "HR/Security Lab/Vulnerability Scanning",
     "HR/Security Lab/Web Traffic Interception",
     "HR/Security Lab/Bruteforcing Tools",
@@ -209,8 +211,6 @@
     "Pasted image 20250212002725.png",
     "Pasted image 20250212001151.png",
     "Pasted image 20250212001332.png",
-    "Pasted image 20250212000801.png",
-    "HR/Algorithms",
-    "HR/Networking"
+    "Pasted image 20250212000801.png"
   ]
 }
