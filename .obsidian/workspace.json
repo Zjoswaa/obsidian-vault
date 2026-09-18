@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "645037707f79f2ad",
+        "id": "786bb6c6cdc9a712",
         "type": "tabs",
         "children": [
           {
-            "id": "d0fd2d364da388ef",
+            "id": "4b9eb5d8aa12e743",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HR/Security Lab/SQL Injection/Blind SQL Injection.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Blind SQL Injection"
+              "title": "New tab"
             }
           }
         ]
@@ -166,22 +162,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0fd2d364da388ef",
+  "active": "4b9eb5d8aa12e743",
   "lastOpenFiles": [
-    "HR/Security Lab/SQL Injection/In-Band SQL Injection.md",
-    "HR/Security Lab/SQL Injection/Blind SQL Injection.md",
-    "HR/Security Lab/SQL Injection/SQL Injection.md",
     "HR/Security Lab/Bruteforcing Tools/ffuf.md",
-    "HR/Security Lab/SQL Injection",
     "HR/Security Lab/Bruteforcing Tools/gobuster.md",
+    "HR/Security Lab/curl.md",
+    "HR/Security Lab/SQL Injection/Blind SQL Injection.md",
+    "HR/Security Lab/SQL Injection/In-Band SQL Injection.md",
+    "HR/Security Lab/Reverse Shell/Reverse shell.md",
+    "HR/Security Lab/Reverse Shell/Shell Payloads.md",
+    "HR/Security Lab/Reverse Shell",
+    "HR/Security Lab/Wordlists.md",
     "HR/Security Lab/Bruteforcing Tools/feroxbuster.md",
+    "HR/Security Lab/Hash Cracking/Hash Cracking.md",
+    "HR/Security Lab/Hash Cracking",
+    "Untitled 1.base",
+    "Untitled.base",
+    "HR/Security Lab/SQL Injection/SQL Injection.md",
+    "HR/Security Lab/SQL Injection",
     "HR/Security Lab/Privilege Escalation/Find SUID files.md",
     "HR/Security Lab/Bruteforcing Tools/john.md",
     "HR/Security Lab/Bruteforcing Tools/hydra.md",
     "HR/Security Lab/Privilege Escalation/PEASS-ng.md",
     "HR/Security Lab/SMB.md",
     "HR/Security Lab/Privilege Escalation",
-    "HR/Security Lab/Untitled.md",
     "HR/Security Lab/Metasploit/searchsploit.md",
     "HR/Security Lab/Reconnaisance/nmap.md",
     "HR/Security Lab/Samba.md",
@@ -192,18 +196,10 @@
     "HR/Security Lab/Bruteforcing Tools/Bruteforcing Tools.md",
     "HR/Security Lab/Web Traffic Interception/Burpsuite.md",
     "HR/Security Lab/Web Traffic Interception/mitmproxy.md",
-    "HR/Python Notes/Loops.md",
-    "HR/Python Notes/Dictionaries.md",
-    "HR/Python Notes/Functions & Arguments.md",
-    "HR/BaseCamp Python Notes/Sets.md",
     "HR/Security Lab/Reconnaisance",
     "HR/Security Lab/Metasploit",
     "HR/Security Lab/Vulnerability Scanning",
     "HR/Security Lab/Web Traffic Interception",
-    "HR/Security Lab/Bruteforcing Tools",
-    "HR/Security Lab",
-    "HR/Databases",
-    "HR/Skills",
     "OpenGL/Perspective Projection.png",
     "OpenGL/Orthographic Projection.png",
     "OpenGL/Coordinate Spaces.png",
