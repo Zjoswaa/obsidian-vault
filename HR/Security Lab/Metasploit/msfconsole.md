@@ -22,6 +22,10 @@ Toon de opties over de geselecteerde ID.
 ```bash
 msf > show options
 ```
+Vul een optie in van de geselecteerde ID.
+```bash
+msf > set <option> <value>
+```
 Toon de mogelijke payloads.
 ```bash
 msf > show payloads
@@ -30,7 +34,7 @@ Selecteer een payload om te gebruiken.
 ```bash
 msf > set payload <path>
 ```
-Vul een optie in van de geselecteerde ID.
+Vul een optie in van de payload.
 ```bash
 msf > set <option> <value>
 ```
