@@ -11,10 +11,14 @@
             "id": "90b4978b5360db3b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "HR/Security Lab/Things to look for.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Things to look for"
             }
           }
         ]
@@ -164,18 +168,21 @@
   },
   "active": "90b4978b5360db3b",
   "lastOpenFiles": [
+    "HR/Security Lab/Privilege Escalation/Find SUID files.md",
+    "HR/Security Lab/Things to look for.md",
+    "HR/Security Lab/ss.md",
+    "HR/Security Lab/Reverse Shell/Reverse shell.md",
+    "HR/Security Lab/SQL Injection/Blind SQL Injection.md",
+    "HR/Security Lab/SQL Injection/In-Band SQL Injection.md",
     "HR/Security Lab/Bruteforcing Tools/hydra.md",
     "HR/Security Lab/Bruteforcing Tools/ffuf.md",
-    "HR/Security Lab/Privilege Escalation/Find SUID files.md",
     "HR/Security Lab/Reverse Shell/Shell Payloads.md",
-    "HR/Security Lab/Reverse Shell/Reverse shell.md",
     "HR/Security Lab/Vulnerability Scanning/Vulnerability Scanning.md",
     "HR/Security Lab/Vulnerability Scanning/OWASP Zed Attack Proxy (ZAP).md",
     "HR/Security Lab/Vulnerability Scanning/nuclei.md",
     "HR/Security Lab/Vulnerability Scanning/nikto.md",
     "HR/Security Lab/Samba.md",
     "HR/Security Lab/SMB.md",
-    "HR/Security Lab/ss.md",
     "HR/Security Lab/Wordlists.md",
     "HR/Security Lab/Reverse SSH Port Forwarding.md",
     "HR/Security Lab/curl.md",
@@ -185,8 +192,6 @@
     "HR/Security Lab/Metasploit/searchsploit.md",
     "HR/Security Lab/Bruteforcing Tools/john.md",
     "HR/Security Lab/SQL Injection/sqlmap.md",
-    "HR/Security Lab/SQL Injection/Blind SQL Injection.md",
-    "HR/Security Lab/SQL Injection/In-Band SQL Injection.md",
     "HR/Security Lab/Reverse Shell",
     "HR/Security Lab/Hash Cracking/Hash Cracking.md",
     "HR/Security Lab/Hash Cracking",
@@ -194,7 +199,6 @@
     "Untitled.base",
     "HR/Security Lab/SQL Injection/SQL Injection.md",
     "HR/Security Lab/SQL Injection",
-    "HR/Security Lab/Privilege Escalation/PEASS-ng.md",
     "HR/Security Lab/Privilege Escalation",
     "HR/Security Lab/Reconnaisance",
     "HR/Security Lab/Metasploit",

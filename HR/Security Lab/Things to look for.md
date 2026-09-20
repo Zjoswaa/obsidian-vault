@@ -1,0 +1,12 @@
+- [[Find SUID files|SUID files]]
+- User privileges: `sudo -l`
+- Users home directories `ls /home`
+- Search for OS version files: `ls /etc/*rele*` and `ls /etc/*ver*`
+- Environment variables: `env` or `printenv`
+- Who is currently using the computer: `w`
+- Check who logged in and out `last -a`
+- Print system Unix name: `uname -a`
+- Check drive partitions: `df -h`
+- Memory usage: `free -h`
+- Socket information: `netstat -tulpn` or `ss -tulpn`
+- View processes: `top` and `ps auxf`
