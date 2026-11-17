@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7f8da95384c3db37",
+        "id": "3494d2d4caf5bc43",
         "type": "tabs",
         "children": [
           {
-            "id": "1ca32b4cd3da0464",
+            "id": "28939bf781dc57ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HR/Security Lab/Cybersecurity met AI/Cybersecurity met AI.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Cybersecurity met AI"
+              "title": "New tab"
             }
           }
         ]
@@ -166,10 +162,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ca32b4cd3da0464",
+  "active": "28939bf781dc57ab",
   "lastOpenFiles": [
-    "HR/Security Lab/Cyber Kill Chain/Cyber Kill Chain.md",
+    "HR/Security Lab/SQL Injection/SQL Injection.md",
+    "HR/Security Lab/SQL Injection/sqlmap.md",
+    "HR/Security Lab/SQL Injection/Blind SQL Injection.md",
+    "HR/Security Lab/Pentest Reporting/Pentest Reporting.md",
     "HR/Security Lab/Cybersecurity met AI/Cybersecurity met AI.md",
+    "HR/Security Lab/Pentest Reporting",
+    "HR/Security Lab/Cyber Kill Chain/Cyber Kill Chain.md",
     "HR/Security Lab/Cybersecurity met AI",
     "HR/Security Lab/Privilege Escalation/Find SUID files.md",
     "HR/Security Lab/Post-Exploitation Enumeration/Linux Post-Exploitation Enumeration.md",
@@ -183,7 +184,6 @@
     "HR/Security Lab/Post-Exploitation Enumeration",
     "HR/Security Lab/ss.md",
     "HR/Security Lab/Reverse Shell/Reverse shell.md",
-    "HR/Security Lab/SQL Injection/Blind SQL Injection.md",
     "HR/Security Lab/SQL Injection/In-Band SQL Injection.md",
     "HR/Security Lab/Bruteforcing Tools/hydra.md",
     "HR/Security Lab/Bruteforcing Tools/ffuf.md",
@@ -194,16 +194,12 @@
     "HR/Security Lab/Vulnerability Scanning/nikto.md",
     "HR/Security Lab/Samba.md",
     "HR/Security Lab/SMB.md",
-    "HR/Security Lab/Wordlists.md",
-    "HR/Security Lab/Reverse SSH Port Forwarding.md",
-    "HR/Security Lab/curl.md",
     "HR/Security Lab/Reverse Shell",
     "HR/Security Lab/Hash Cracking",
     "Untitled 1.base",
     "Untitled.base",
     "HR/Security Lab/SQL Injection",
     "HR/Security Lab/Privilege Escalation",
-    "HR/Security Lab/Reconnaisance",
     "OpenGL/Perspective Projection.png",
     "OpenGL/Orthographic Projection.png",
     "OpenGL/Coordinate Spaces.png",

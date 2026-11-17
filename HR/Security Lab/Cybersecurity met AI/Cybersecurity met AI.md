@@ -11,10 +11,12 @@ Zelfs verschillende parameters binnen hetzelfde model kunnen verschillende resul
 - Agent = LLM die een bepaalde rol aanneemt en specifieke skills heeft. Hij kan resultaten interpreteren en vervolgens de workflow voortzetten.
 Een aantal features van een AI agent zijn:
 - Toolpermissies.
-- Controlepunten coor menselijke goedkeuring.
+- Controlepunten voor menselijke goedkeuring.
 - Context- en statemanagement.
 # Pentesting met AI
 Ga er niet van uit dat de agent weet wat je wilt.
 - Verplichte versus optionele acties.
 - Kwaliteitsnormen.
 - Outputformaten.
+
+Geef altijd een duidelijke prompt op, met scope, tools, goedkeuring, do's en dont's.
